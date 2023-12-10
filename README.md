@@ -4,14 +4,14 @@ With the popularity of Uber and Lyft services expanding across the United States
 
 Link to the dataset: https://www.kaggle.com/datasets/ravi72munde/uber-lyft-cab-prices/data
 
-The project is built in Python 3.11.4 and repository organization is as follows:
+## Repository Files:
 1. `figures/` - Store all the figures, diagrams, and table from the EDA stage to the result stage
 2. `Results/` - Stores the result of five models and the metrics (RMSE and R Sqared) associated with each model.
 3. `report/` - Summary reports, and presentation slides.
 4. `src/` - Code generated the process from beginning to end.
 
 
-The key packages used in this project are the following:
+The project is built by python 3.11.4 and key packages used in this project are the following:
 - pandas=2.0.3
 - matplotlib=3.7.2
 - numpy=1.24.4
