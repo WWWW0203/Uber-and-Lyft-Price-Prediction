@@ -2,6 +2,7 @@
 
 With the popularity of Uber and Lyft services expanding across the United States, recognizing how prices change under different circumstances provides valuable insights and helps individuals plan their travel ahead of time. The goal of this project is to develop regression models to predict ride prices for Uber and Lyft based on features such as distance traveled, weather, time of day, etc. Since neither Uber nor Lyft publicly releases their data, the dataset was obtained from [Kaggle]([https://www.kaggle.com/datasets/ravi72munde/uber-lyft-cab-prices/data]). The dataset’s author collected real-time data using Uber & Lyft API queries and corresponding weather conditions in a few hotspots in Boston for over a week from Nov. 18, 2018. Random Forest attained a best mean score of 96% R-Squared value.
 
+Link to the dataset: https://www.kaggle.com/datasets/ravi72munde/uber-lyft-cab-prices/data
 
 The project is built in Python 3.11.4 and repository organization is as follows:
 1. `data/` - Stores all raw data files.
