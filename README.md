@@ -4,7 +4,7 @@ With the popularity of Uber and Lyft services expanding across the United States
 
 Link to the dataset: https://www.kaggle.com/datasets/ravi72munde/uber-lyft-cab-prices/data
 
-## Repository Files:
+## Repository Files and Packages Used:
 1. `figures/` - Store all the figures, diagrams, and table from the EDA stage to the result stage
 2. `Results/` - Stores the result of five models and the metrics (RMSE and R Sqared) associated with each model.
 3. `report/` - Summary reports, and presentation slides.
